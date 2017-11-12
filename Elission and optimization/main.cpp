@@ -50,6 +50,7 @@ int main()
     vec.push_back(test1);
 
     int value =7;
+    cout << "this is me" <<endl;
     cout<< num++<<endl;
     //int *pvalue = &value++;
 //    cout << *pvalue <<endl;
