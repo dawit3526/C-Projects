@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508550650 source:/home/dawit/Desktop/hh/Template-Clases/main.cpp
+	<iostream>
+	<vector>
+

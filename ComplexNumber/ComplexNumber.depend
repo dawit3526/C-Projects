@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508201378 source:/home/dawit/Desktop/hh/ComplexNumber/main.cpp
+	<iostream>
+	"complex.h"
+
+1508201378 /home/dawit/Desktop/hh/ComplexNumber/include/complex.h
+
+1508200924 source:/home/dawit/Desktop/hh/ComplexNumber/src/complex.cpp
+	"complex.h"
+
